@@ -1,6 +1,6 @@
-# 👾 EvenAI Layer
+# 👾 UPTON
 
-EvenAI Layer is the **first** CeDeFi restaking protocol on the TON blockchain, positioned as the **Ethena** on TON.
+UPTON is the **first** CeDeFi restaking protocol on the TON blockchain, positioned as the **Ethena** on TON.
 
 ### Usage
 
@@ -10,9 +10,11 @@ yarn build # To build & compile the contract
 yarn deploy # To deploy contract
 ```
 ### Configs
-For compilation related, setting in `tact.config.json` 
+`tact.config.json` for compilation related
 
-For scripts related, setting in `package.json` 
+`package.json` for scripts related
+
+`.env` for mnemonics
 
 ## ✨ Core Concepts
 
@@ -45,13 +47,17 @@ https://www.fireblocks.com/
 
 ## 🔗 Links
 
-Whitepaper: https://docs.evenailayer.com/
+Whitepaper: https://docs.uptonfi.com/
 
-Website: https://www.evenailayer.com/
+Website: https://www.uptonfi.com/
 
-Twitter: https://x.com/evenailayer
+Mini-app Testnet: https://t.me/uptonfi_bot
 
-Telegram: https://t.me/evenailayer
+Web Dapp Testnet: https://uptons.vercel.app/
+
+Twitter: https://x.com/upton_fi
+
+Community: https://t.me/uptonfi
 
 BD Contact: https://t.me/ChristineL1
 
